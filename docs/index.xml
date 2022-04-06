@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Luis Villegas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://villegas97.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://villegas97.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi primer POST creado desde GitHub</title>
+      <link>https://villegas97.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://villegas97.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola, estoy emocionado por la creación de un post en mi blog de GoHugo, me parece una excelente herramienta y no puedo esperar para aprender más sobre ella.</description>
+    </item>
+    
     <item>
       <title>Mis expectativas</title>
       <link>https://villegas97.github.io/my_launchx_blog/posts/intro/</link>
