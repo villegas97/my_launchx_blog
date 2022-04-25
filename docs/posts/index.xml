@@ -8,21 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://villegas97.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Semana 2 de la mision backend con NodeJS</title>
+      <link>https://villegas97.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://villegas97.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>La semana 2 está conformada por una amplia gama de ejemplos asignados por el Mission Commander Carlo Gilmar, cada uno de ellos es muy útil para conocer las distintas formas de aplicar ciertos operadores. Se introduce lo que son las clases y los objetos de las clases, algo que ya había visto previamente durante la universidad con programación orientada a objetos en Java, algo que me resultó muy útil pues no fue complicado de aplicarlo aquí con JavaScript.</description>
+    </item>
+    
+    <item>
       <title>Mi primer POST creado desde GitHub</title>
       <link>https://villegas97.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://villegas97.github.io/my_launchx_blog/posts/post_1/</guid>
       <description>Hola, este es mi primer POST en mi blog en GoHugo, me parece una excelente herramienta y es uno de los aprendizajes que me dejará marcado para siempre. Durante mi estancia en el curso Full Stack de Microsoft he aprendido cosas nuevas como el consumo de APIs con JavaScript y frameworks como Vue, que fue lo más nuevo para mí dado que solo había utilizado lo más común para desarrollo web: HTML, JavaScript, jQuery, PHP y Bootstrap.</description>
-    </item>
-    
-    <item>
-      <title>Semana 2 de la mision backend con NodeJS</title>
-      <link>https://villegas97.github.io/my_launchx_blog/posts/post_2/</link>
-      <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://villegas97.github.io/my_launchx_blog/posts/post_2/</guid>
-      <description>La semana 2 está conformada por una amplia gama de ejemplos asignados por el Mission Commander Carlo Gilmar, cada uno de ellos es muy útil para conocer las distintas formas de aplicar ciertos operadores. Se introduce lo que son las clases y los objetos de las clases, algo que ya había visto previamente durante la universidad con programación orientada a objetos en Java, algo que me resultó muy útil pues no fue complicado de aplicarlo aquí con JavaScript.</description>
     </item>
     
     <item>
