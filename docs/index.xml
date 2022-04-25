@@ -17,6 +17,15 @@
     </item>
     
     <item>
+      <title>Semana 3 de la misión backend con NodeJS</title>
+      <link>https://villegas97.github.io/my_launchx_blog/posts/post_3/</link>
+      <pubDate>Sun, 24 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://villegas97.github.io/my_launchx_blog/posts/post_3/</guid>
+      <description>El aprendizaje en esta semana fue muy productivo, aprendimos muchas cosas esenciales, como el directorio de un proyecto en javascript, utilizando las carpetas app, test y sus respetivos subdirectorios como modules, views y services, también la sintaxis de una prueba de unidad con Jest, como ejecutar el proyecto (index.js) con npm modificando el package.json (especificamente el apartado de &amp;ldquo;scripts&amp;rdquo;), también como correr las pruebas de unidad y donde modifiar el package.</description>
+    </item>
+    
+    <item>
       <title>Mi primer POST creado desde GitHub</title>
       <link>https://villegas97.github.io/my_launchx_blog/posts/post_1/</link>
       <pubDate>Wed, 06 Apr 2022 00:00:00 +0000</pubDate>
