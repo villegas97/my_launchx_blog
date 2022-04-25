@@ -1,6 +1,6 @@
 ---
 title: "Semana 2 de la mision backend con NodeJS"
-date: 2022-04-06
+date: 2022-04-24
 description: 'Aventura en la semana 2'
 ---
 
